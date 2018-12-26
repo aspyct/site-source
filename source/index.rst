@@ -3,20 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Aspyct.org's documentation!
-======================================
+Home
+====
 
-Contents:
+.. NOTE::
+    Are you looking for `the old blog </blog/archives/>`_?
+
+This is the stuff I can never remember.
+If you can't either, feel free to use this documentation.
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+    debian/index
+    gpg/index
+    other/index
