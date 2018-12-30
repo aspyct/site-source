@@ -56,7 +56,7 @@ master_doc = 'index'
 project = 'Aspyct.org'
 copyright = '2018, Antoine d\'Otreppe'
 author = 'Antoine d\'Otreppe'
-site_url = 'https://aspyct.org'
+site_url = 'https://aspyct.org/'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
