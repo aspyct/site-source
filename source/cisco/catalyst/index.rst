@@ -6,6 +6,8 @@ Cisco Catalyst
 .. toctree::
     :maxdepth: 2
 
-    general
+    command-modes
+    administrative-access
+    port-configuration
     mac-address-table
     spanning-tree
