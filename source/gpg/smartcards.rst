@@ -63,8 +63,8 @@ Generate a private key on the card
     Admin commands are allowed
 
     gpg/card> name
-    Cardholder's surname: d'Otreppe de Bouvette
-    Cardholder's given name: Antoine
+    Cardholder's surname: <your surname>
+    Cardholder's given name: <your first name>
 
     gpg/card> generate
     Make off-card backup of encryption key? (Y/n) n
@@ -89,10 +89,10 @@ Generate a private key on the card
 
     GnuPG needs to construct a user ID to identify your key.
 
-    Real name: Antoine d'Otreppe de Bouvette
-    Email address: a.dotreppe@aspyct.org
+    Real name: <your name>
+    Email address: <your email>
     Comment:
     You selected this USER-ID:
-        "Antoine d'Otreppe de Bouvette <a.dotreppe@aspyct.org>"
+        "<your name> <your email>"
 
     Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? o
